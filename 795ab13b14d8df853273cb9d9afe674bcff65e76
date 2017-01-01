@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f57e3b5_0707781e",
+        "filename": "arch/arm/mach-msm/lge/8974ac-g3/Kconfig",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2017-01-01T13:06:48Z",
+      "side": 0,
+      "message": "别的地方都不影响其他机型，但是这里不太理解为什么要删，删了bq24296_charger.c里默认的判断岂不是废了？",
+      "range": {
+        "startLine": 6,
+        "startChar": 1,
+        "endLine": 6,
+        "endChar": 35
+      },
+      "revId": "795ab13b14d8df853273cb9d9afe674bcff65e76",
+      "serverId": "83d63960-fecf-4fd1-a7f6-e01518638a62",
+      "unresolved": false
+    }
+  ]
+}
